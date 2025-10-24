@@ -1,15 +1,17 @@
-#Hello 👋
+# Hi, I'm Ruslan Kovbasiuk 👋
 
-I work in Web3 and blockchain infrastructure.
+Web3 Developer & Infrastructure Enthusiast  
+Focused on L1/L2 scaling, MEV research, smart contract automation.  
+Currently exploring: Solidity • Rust • Solidity + Typescript tooling.
 
-I'm interested in L1/L2 networks, rollups, MEV, and on-chain analytics.
+**🔧 Projects & Interests**
+- Blockchain infrastructure & protocols
+- Open-source contributions & bug bounties
+- Early-stage token sales / testnets
+- On-chain data analytics & monitoring
 
-**What I'm currently doing:**
-- Participating in testnets and early sales
-- Connecting with the new L1/L2 community
-- Working on improving documentation and translations
+**📫 Connect**
+- Twitter: https://twitter.com/mistersmm9  
+- Discord / Telegram: t.me/mir_insta  
+- Wallet (main): 0xF5bA15407E311B6b8744F31B83AFb6F041be1d78
 
-**Contacts and profiles:**
-- X: https://x.com/mistersmm9
-- Discord: https://discord.com/users/rusinsta#8358
-- Wallet: 0xF5bA15407E311B6b8744F31B83AFb6F041be1d78
